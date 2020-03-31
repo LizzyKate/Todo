@@ -1,6 +1,3 @@
-body{
-    background-color: yellowgreen;
-}
-.toggle{
-    background-color: black !important;
+*{
+    margin: 0;
 }
